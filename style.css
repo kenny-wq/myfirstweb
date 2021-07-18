@@ -1,0 +1,124 @@
+body {
+  background-color: #83EAF0;
+  
+}
+
+img {
+  position: absolute;
+  width: 1100px;
+  height: 550px;
+  margin: 40px 20px 50px 80px;
+}
+
+.words {
+  font-family: fantasy;
+  font-size: 50px;
+  position: absolute;
+  margin: 80px 200px 1000px 600px;
+}
+form.firstName input {
+  position: absolute;
+  margin: 175px 20px 1000px 600px;
+}
+form.firstName font {
+  font-weight: bold;
+  font-family: Papyrus;
+  font-size: 10px;
+  position: absolute;
+  margin: 150px 20px 1000px 600px;
+}
+form.lastName input {
+  position: absolute;
+  margin: 175px 20px 1000px 800px;
+}
+form.lastName font {
+  font-weight: bold;
+  font-family: Papyrus;
+  font-size: 10px;
+  position: absolute;
+  margin: 150px 20px 1000px 800px;
+}
+form.PHONE input {
+  position: absolute;
+  margin: 250px 20px 1000px 600px;
+}
+form.PHONE font {
+  font-weight: bold;
+  font-family: Papyrus;
+  font-size: 10px;
+  position: absolute;
+  margin: 230px 20px 1000px 800px;
+}
+form.EMAIL input {
+  position: absolute;
+  margin: 250px 20px 1000px 800px;
+}
+form.EMAIL font {
+  font-weight: bold;
+  font-family: Papyrus;
+  font-size: 10px;
+  position: absolute;
+  margin: 230px 20px 1000px 600px;
+}
+form.PASSWORD input {
+  position: absolute;
+  margin: 330px 20px 1000px 600px;
+}
+form.PASSWORD font {
+  font-weight: bold;
+  font-family: Papyrus;
+  font-size: 10px;
+  position: absolute;
+  margin: 300px 20px 1000px 600px;
+}
+form.CONFIRM input {
+  position: absolute;
+  margin: 330px 20px 1000px 800px;
+}
+form.CONFIRM font {
+  font-weight: bold;
+  font-family: Papyrus;
+  font-size: 10px;
+  position: absolute;
+  margin: 300px 20px 1000px 800px;
+}
+
+form.accept input {
+  position: absolute;
+  margin: 404px 20px 1000px 600px;
+}
+form.accept font {
+  position: absolute;
+  margin: 400px 20px 1000px 615px;
+}
+form.news input {
+  position: absolute;
+  margin: 404px 20px 1000px 820px;
+}
+form.news font {
+  position: absolute;
+  margin: 400px 20px 1000px 835px;
+}
+
+.sign {
+  background-color: purple;
+  height: 50px;
+  width: 200px;
+  position: absolute;
+  margin: 560px 20px 1000px 700px;
+}
+
+.button {
+  position: absolute;
+  background-color: purple;
+  width: 200px;
+  height: 100px;
+  font-size: 30px;
+  color: white;
+  margin-top: 530px;
+  margin-left: 700px;
+  text-align: center;
+  border: none;
+}
+
+
