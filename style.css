@@ -120,5 +120,12 @@ form.news font {
   text-align: center;
   border: none;
 }
-
+.button:hover {
+  background-color: deeppink;
+}
+.button:active {
+  background-color: deeppink;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
 
