@@ -1,6 +1,5 @@
 body {
   background-color: #83EAF0;
-  
 }
 
 img {
@@ -127,5 +126,11 @@ form.news font {
   background-color: deeppink;
   box-shadow: 0 5px #666;
   transform: translateY(4px);
+}
+
+a {
+  color: white;
+  text-decoration: none;
+
 }
 
